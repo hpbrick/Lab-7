@@ -1,3 +1,3 @@
 # Leonardo DiCaprio
 
-[Link to my webpage on the Web]([INCLUDE THE LINK HERE])
+[Link to my webpage on the Web]([https://hpbrick.github.io/Lab-7/])
